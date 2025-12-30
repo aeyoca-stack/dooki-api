@@ -1,0 +1,5 @@
+# Add this line if not already present
+node_modules/
+
+weather/bin
+weather/obj
